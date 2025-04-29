@@ -89,5 +89,5 @@ Bu sistem Gmail gibi servislerde çalışabilmesi için uygulama şifresi veya g
 
 🔧 Geliştiren:
 -------------
-Senin Adın – 2025
+Umut Hakan Demir – 2025
 ```
