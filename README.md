@@ -19,7 +19,8 @@ Bu uygulama ile komut satırından ya da etkileşimli menü üzerinden:
 🚀 Kurulum
 ----------
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/umuthakandemir/MailSender.git
+cd MailSender
 ```
 
 📜 Kullanım - Parametreli
